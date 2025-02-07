@@ -1,0 +1,1 @@
+[![Build and Slim Docker Image](https://github.com/lele-maxwell/perfect-square/actions/workflows/docker-image.yml/badge.svg)](https://github.com/lele-maxwell/perfect-square/actions/workflows/docker-image.yml)
