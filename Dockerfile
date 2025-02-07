@@ -11,4 +11,4 @@ RUN apt-get update && apt-get install -y libssl-dev
 
 COPY --from=builder /app/target/release/perfect-square /app/
 
-CMD ["/app/cpu_info"]
+CMD ["/app/perfect-square"]
